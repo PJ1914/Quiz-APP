@@ -1,0 +1,18 @@
+quiz-backend/
+├── models/
+│   ├── User.js
+│   ├── Quiz.js
+├── routes/
+│   ├── authRoutes.js
+│   ├── quizRoutes.js
+│   ├── leaderboardRoutes.js
+├── middleware/
+│   ├── authMiddleware.js
+├── controllers/
+│   ├── authController.js
+│   ├── quizController.js
+│   ├── leaderboardController.js
+├── server.js
+├── .env
+├── package.json
+└── README.md
